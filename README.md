@@ -2,7 +2,7 @@
 
 This is a shooting game with aliens and space ship (doesn't need more explanation imo). It has been developed using pygame.
 
-## How to play?
+## Getting started
 
 1. Clone the repo
 
@@ -15,6 +15,10 @@ This is a shooting game with aliens and space ship (doesn't need more explanatio
     ```bash
     python main.py
     ```
+
+## How to play it?
+- Use `left` and `right` arrow keys to move around.
+- Press `space` to shoot.
 
 ## Guide
 
