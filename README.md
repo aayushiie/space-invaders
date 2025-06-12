@@ -15,3 +15,7 @@ This is a shooting game with aliens and space ship (doesn't need more explanatio
     ```bash
     python main.py
     ```
+
+## Guide
+
+If you're a beginner, go to **Guide.md** to understand each line of code and get started making your own games.
